@@ -1,0 +1,214 @@
+@media all and (min-width:1445px) {
+    nav .container-fluid{
+        width: 1440px;
+        margin: auto;
+    }
+    .banner .container-fluid{
+        width: 1435px;
+        margin: auto;
+    }
+    .header-menu ul li {
+        margin: 0px 20px;
+        padding: 10px 0px;
+    }
+
+
+}
+
+@media all and (max-width:1200px) {
+    .banner h1 {
+        font-size: 55px;
+    }
+    .default-btn{
+        padding: 7px 10px;
+    }
+    .ul-css{
+        margin: auto !important;
+    }
+    .header-contact .call-info {
+        width: 90%;
+    }
+    .header-menu ul li {
+        margin: 0px 5px;
+    }
+    .nav-our-css img {
+        width: 120px;
+    }
+    .value-right-img {
+        text-align: center;
+    }
+}
+
+@media all and (max-width:1100px) {
+    .banner{
+        height: 600px;
+    }
+    .banner h1 {
+        font-size: 40px;
+    }
+    .banner p,span {
+        font-size: 15px;
+    }
+    .default-text h2 {
+        font-size: 30px;
+        margin: 5px 0;
+    }
+    .deal-section img{
+        max-width: 80%;
+    }
+    .why-choose .choose-us-right .choose-us-card {
+        padding: 40px 30px 0px 30px;
+        margin-bottom: 20px;
+    }
+    .why-choose .choose-us-right .choose-us-card p {
+        margin-top: 5px;
+        line-height: 25px;
+    }
+    .why-choose .choose-us-right .choose-us-card::after{
+        top: -180px;
+    }
+    .services .service-list a .service-icon {
+        height: 65px;
+        width: 65px;
+        line-height: 73px;
+    }
+    .services .service-list a .service-icon i {
+        font-size: 25px;
+    }
+    .services .service-list a h4 {
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .services .service-list ul.top {
+        padding-bottom: 12px;
+    }
+    .services .service-list a.active::after {    
+        top: 131px;
+    }
+}
+
+@media all and (max-width:992px) {
+    .choose-responsive{
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .choose-responsive .default-text p {
+        font-size: 17px;
+        color: #606060;
+        font-weight: 400;
+        width: 425px;
+        margin: auto;
+    }
+    .why-choose .choose-us-right .card-1 {
+        margin-top: 0px;
+    }
+    .why-choose .choose-us-right .last-card {
+        position: relative;
+        top: 0px;
+    }
+    .about-responsive {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .business-left {
+        margin-bottom: 50px;
+    }
+    .call-act .call-red .call-left h1 {
+        color: white;
+        font-weight: 400;
+        font-size: 30px;
+    }
+    .call-act .call-red .call-act-right .call-act-icon {
+        height: 60px;
+        width: 60px;
+        line-height: 80px;
+    }
+    .call-act .call-red .call-act-right a {
+        font-size: 30px;
+    }
+    .call-act .call-red {
+        padding: 35px 25px;
+    }
+    .call-act .call-red .call-act-right {
+        padding-left: 25px;
+    }
+    .services .service-list ul.top {
+        border-right: 1px solid #ddd;
+        border-bottom: none;
+        padding-bottom: 10px;
+        padding-right: 5px;
+        display: inline-block;
+        flex-direction: column;
+    }
+    .tab-responsive {
+        display: inline-block;
+        width: 70%;
+        position: relative;
+        top: -750px;
+        left:15px;
+    }
+    li.nav-item {
+        margin-bottom: 70px;
+        text-align: center;
+    }
+    .services .service-list a.active::after {
+        content: " ";
+        width: 0;
+        height: 0;
+    }
+    .service-list {
+        height: 1575px;
+    }
+    .client-right .client-icon {
+        bottom: 27px;
+        left: 300px;
+    }
+    .client-right {
+        text-align: center;
+    }
+    footer .f-list h3 {
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+    footer .f-contact h3 {
+        padding-bottom: 0px;
+        margin-bottom: 10px;
+    }
+
+}
+
+@media all and (max-width:767px) {
+    .call-act .call-red .call-act-right {
+        border-left: 1px solid #f39e9f;
+        border-left: none;
+        padding-left: 0px;
+    }
+    .services .service-list ul.top {
+        width: 22%;
+    }
+    .tab-responsive {
+        display: inline-block;
+        width: 70%;
+        position: relative;
+        top: -900px;
+        left:15px;
+    }
+    .services .service-list a h4 {
+        font-size: 15px;
+    }
+    .service-list {
+        height: 1575px;
+    }
+    .services{
+        padding: 70px 0;
+    }
+
+}
+
+@media all and (max-width:515px) {
+
+}
+
+
+
+

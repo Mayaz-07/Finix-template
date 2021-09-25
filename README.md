@@ -1,1 +1,1 @@
-# Finix-template
+# finix
